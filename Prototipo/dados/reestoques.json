@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "data": "10/12/2025 21:11:48",
+    "quantidade": 10,
+    "produto": {
+      "codigo": 1538,
+      "nome": "Arroz Camil 5kg",
+      "preco": 25.9,
+      "validade": "2025-12-31",
+      "estoque": 50
+    }
+  },
+  {
+    "id": 2,
+    "data": "10/12/2025 22:28:00",
+    "quantidade": 10,
+    "produto": {
+      "codigo": 1003,
+      "nome": "Macarrão Espaguete Barilla 500g",
+      "preco": 7.9,
+      "validade": "2026-08-10",
+      "estoque": 35
+    }
+  },
+  {
+    "id": 3,
+    "data": "10/12/2025 23:14:50",
+    "quantidade": 5,
+    "produto": {
+      "codigo": 1024,
+      "nome": "Ketchup Heinz 397g",
+      "preco": 8.5,
+      "validade": "2026-06-15",
+      "estoque": 40
+    }
+  },
+  {
+    "id": 4,
+    "data": "11/12/2025 00:57:46",
+    "quantidade": 2,
+    "produto": {
+      "codigo": 1010,
+      "nome": "Extrato de Tomate Elefante 190g",
+      "preco": 2.9,
+      "validade": "2026-03-10",
+      "estoque": 42
+    }
+  }
+]

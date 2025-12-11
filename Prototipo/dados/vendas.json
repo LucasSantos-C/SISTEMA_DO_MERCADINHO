@@ -1,0 +1,570 @@
+[
+  {
+    "id": 1,
+    "dataHora": "15/11/2025 09:35:12",
+    "formaPagamento": "Dinheiro",
+    "valorRecebido": 50.0,
+    "troco": 4.1,
+    "idFuncionario": 101,
+    "itens": [
+      {
+        "quantidade": 2,
+        "subtotal": 19.0,
+        "produto": {
+          "codigo": 1002,
+          "nome": "Feijão Carioca Camil 1kg",
+          "preco": 9.5,
+          "validade": "2026-02-20",
+          "estoque": 60
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 13.5,
+        "produto": {
+          "codigo": 1013,
+          "nome": "Biscoito Cream Cracker Marilan 200g",
+          "preco": 4.5,
+          "validade": "2025-12-20",
+          "estoque": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "dataHora": "18/11/2025 14:22:45",
+    "formaPagamento": "PIX",
+    "valorRecebido": 37.2,
+    "troco": 0.0,
+    "idFuncionario": 100,
+    "itens": [
+      {
+        "quantidade": 1,
+        "subtotal": 28.9,
+        "produto": {
+          "codigo": 1001,
+          "nome": "Arroz Tio João 5kg",
+          "preco": 28.9,
+          "validade": "2026-03-15",
+          "estoque": 45
+        }
+      },
+      {
+        "quantidade": 1,
+        "subtotal": 8.2,
+        "produto": {
+          "codigo": 1004,
+          "nome": "Óleo de Soja Liza 900ml",
+          "preco": 8.2,
+          "validade": "2026-01-25",
+          "estoque": 50
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "dataHora": "20/11/2025 10:15:33",
+    "formaPagamento": "Cartão de Débito",
+    "valorRecebido": 84.5,
+    "troco": 0.0,
+    "idFuncionario": 101,
+    "itens": [
+      {
+        "quantidade": 2,
+        "subtotal": 33.8,
+        "produto": {
+          "codigo": 1006,
+          "nome": "Café Pilão Tradicional 500g",
+          "preco": 16.9,
+          "validade": "2026-04-15",
+          "estoque": 40
+        }
+      },
+      {
+        "quantidade": 1,
+        "subtotal": 24.9,
+        "produto": {
+          "codigo": 1012,
+          "nome": "Azeite de Oliva Andorinha 500ml",
+          "preco": 24.9,
+          "validade": "2026-09-15",
+          "estoque": 25
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 3.5999999999999996,
+        "produto": {
+          "codigo": 1019,
+          "nome": "Suco em Pó Tang Laranja 25g",
+          "preco": 1.2,
+          "validade": "2026-08-25",
+          "estoque": 120
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "dataHora": "22/11/2025 16:48:20",
+    "formaPagamento": "Cartão de Crédito",
+    "valorRecebido": 156.7,
+    "troco": 0.0,
+    "idFuncionario": 100,
+    "itens": [
+      {
+        "quantidade": 5,
+        "subtotal": 49.5,
+        "produto": {
+          "codigo": 1020,
+          "nome": "Refrigerante Coca-Cola 2L",
+          "preco": 9.9,
+          "validade": "2026-02-28",
+          "estoque": 30
+        }
+      },
+      {
+        "quantidade": 4,
+        "subtotal": 51.6,
+        "produto": {
+          "codigo": 1023,
+          "nome": "Maionese Hellmann's 500g",
+          "preco": 12.9,
+          "validade": "2026-04-20",
+          "estoque": 30
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 26.700000000000003,
+        "produto": {
+          "codigo": 1027,
+          "nome": "Atum Ralado Gomes da Costa 170g",
+          "preco": 8.9,
+          "validade": "2027-02-15",
+          "estoque": 45
+        }
+      },
+      {
+        "quantidade": 1,
+        "subtotal": 28.9,
+        "produto": {
+          "codigo": 1001,
+          "nome": "Arroz Tio João 5kg",
+          "preco": 28.9,
+          "validade": "2026-03-15",
+          "estoque": 45
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "dataHora": "25/11/2025 11:30:15",
+    "formaPagamento": "Dinheiro",
+    "valorRecebido": 100.0,
+    "troco": 23.0,
+    "idFuncionario": 101,
+    "itens": [
+      {
+        "quantidade": 2,
+        "subtotal": 57.8,
+        "produto": {
+          "codigo": 1001,
+          "nome": "Arroz Tio João 5kg",
+          "preco": 28.9,
+          "validade": "2026-03-15",
+          "estoque": 45
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 19.0,
+        "produto": {
+          "codigo": 1002,
+          "nome": "Feijão Carioca Camil 1kg",
+          "preco": 9.5,
+          "validade": "2026-02-20",
+          "estoque": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "dataHora": "28/11/2025 15:20:40",
+    "formaPagamento": "PIX",
+    "valorRecebido": 45.3,
+    "troco": 0.0,
+    "idFuncionario": 100,
+    "itens": [
+      {
+        "quantidade": 3,
+        "subtotal": 23.700000000000003,
+        "produto": {
+          "codigo": 1003,
+          "nome": "Macarrão Espaguete Barilla 500g",
+          "preco": 7.9,
+          "validade": "2026-08-10",
+          "estoque": 35
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 7.0,
+        "produto": {
+          "codigo": 1009,
+          "nome": "Molho de Tomate Pomarola 340g",
+          "preco": 3.5,
+          "validade": "2025-12-18",
+          "estoque": 70
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 11.8,
+        "produto": {
+          "codigo": 1008,
+          "nome": "Farinha de Trigo Dona Benta 1kg",
+          "preco": 5.9,
+          "validade": "2026-06-20",
+          "estoque": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "dataHora": "01/12/2025 09:45:22",
+    "formaPagamento": "Cartão de Débito",
+    "valorRecebido": 67.8,
+    "troco": 0.0,
+    "idFuncionario": 101,
+    "itens": [
+      {
+        "quantidade": 3,
+        "subtotal": 19.5,
+        "produto": {
+          "codigo": 1016,
+          "nome": "Chocolate Barra Nestlé Classic 90g",
+          "preco": 6.5,
+          "validade": "2026-05-20",
+          "estoque": 50
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 17.8,
+        "produto": {
+          "codigo": 1017,
+          "nome": "Achocolatado em Pó Nescau 400g",
+          "preco": 8.9,
+          "validade": "2026-07-10",
+          "estoque": 40
+        }
+      },
+      {
+        "quantidade": 4,
+        "subtotal": 15.6,
+        "produto": {
+          "codigo": 1014,
+          "nome": "Biscoito Maria Mabel 200g",
+          "preco": 3.9,
+          "validade": "2025-12-25",
+          "estoque": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "dataHora": "03/12/2025 13:10:55",
+    "formaPagamento": "Dinheiro",
+    "valorRecebido": 50.0,
+    "troco": 1.8,
+    "idFuncionario": 100,
+    "itens": [
+      {
+        "quantidade": 2,
+        "subtotal": 17.0,
+        "produto": {
+          "codigo": 1021,
+          "nome": "Refrigerante Guaraná Antarctica 2L",
+          "preco": 8.5,
+          "validade": "2026-03-15",
+          "estoque": 35
+        }
+      },
+      {
+        "quantidade": 1,
+        "subtotal": 15.9,
+        "produto": {
+          "codigo": 1035,
+          "nome": "Castanha de Caju Torrada 200g",
+          "preco": 15.9,
+          "validade": "2026-06-20",
+          "estoque": 20
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 15.0,
+        "produto": {
+          "codigo": 1046,
+          "nome": "Leite Condensado Moça 395g",
+          "preco": 7.5,
+          "validade": "2026-07-15",
+          "estoque": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "dataHora": "05/12/2025 17:25:33",
+    "formaPagamento": "PIX",
+    "valorRecebido": 92.4,
+    "troco": 0.0,
+    "idFuncionario": 101,
+    "itens": [
+      {
+        "quantidade": 1,
+        "subtotal": 18.9,
+        "produto": {
+          "codigo": 1036,
+          "nome": "Granola Tradicional Kobber 1kg",
+          "preco": 18.9,
+          "validade": "2026-05-10",
+          "estoque": 25
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 33.0,
+        "produto": {
+          "codigo": 1038,
+          "nome": "Mel Puro Apis Flora 300g",
+          "preco": 16.5,
+          "validade": "2027-12-31",
+          "estoque": 30
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 22.5,
+        "produto": {
+          "codigo": 1037,
+          "nome": "Aveia em Flocos Quaker 500g",
+          "preco": 7.5,
+          "validade": "2026-09-15",
+          "estoque": 40
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 9.6,
+        "produto": {
+          "codigo": 1005,
+          "nome": "Açúcar Cristal União 1kg",
+          "preco": 4.8,
+          "validade": "2027-12-31",
+          "estoque": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "dataHora": "07/12/2025 10:55:18",
+    "formaPagamento": "Cartão de Crédito",
+    "valorRecebido": 123.7,
+    "troco": 0.0,
+    "idFuncionario": 100,
+    "itens": [
+      {
+        "quantidade": 4,
+        "subtotal": 34.0,
+        "produto": {
+          "codigo": 1032,
+          "nome": "Salgadinho Ruffles 96g",
+          "preco": 8.5,
+          "validade": "2026-02-10",
+          "estoque": 50
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 29.700000000000003,
+        "produto": {
+          "codigo": 1034,
+          "nome": "Amendoim Japonês Dori 500g",
+          "preco": 9.9,
+          "validade": "2025-12-12",
+          "estoque": 35
+        }
+      },
+      {
+        "quantidade": 6,
+        "subtotal": 51.0,
+        "produto": {
+          "codigo": 1024,
+          "nome": "Ketchup Heinz 397g",
+          "preco": 8.5,
+          "validade": "2026-06-15",
+          "estoque": 35
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 10.5,
+        "produto": {
+          "codigo": 1028,
+          "nome": "Milho Verde Quero 200g",
+          "preco": 3.5,
+          "validade": "2026-12-10",
+          "estoque": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "dataHora": "09/12/2025 14:40:25",
+    "formaPagamento": "Dinheiro",
+    "valorRecebido": 80.0,
+    "troco": 5.5,
+    "idFuncionario": 101,
+    "itens": [
+      {
+        "quantidade": 2,
+        "subtotal": 57.8,
+        "produto": {
+          "codigo": 1001,
+          "nome": "Arroz Tio João 5kg",
+          "preco": 28.9,
+          "validade": "2026-03-15",
+          "estoque": 45
+        }
+      },
+      {
+        "quantidade": 1,
+        "subtotal": 16.9,
+        "produto": {
+          "codigo": 1006,
+          "nome": "Café Pilão Tradicional 500g",
+          "preco": 16.9,
+          "validade": "2026-04-15",
+          "estoque": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "dataHora": "10/12/2025 11:20:42",
+    "formaPagamento": "PIX",
+    "valorRecebido": 58.3,
+    "troco": 0.0,
+    "idFuncionario": 100,
+    "itens": [
+      {
+        "quantidade": 5,
+        "subtotal": 42.5,
+        "produto": {
+          "codigo": 1024,
+          "nome": "Ketchup Heinz 397g",
+          "preco": 8.5,
+          "validade": "2026-06-15",
+          "estoque": 35
+        }
+      },
+      {
+        "quantidade": 3,
+        "subtotal": 26.700000000000003,
+        "produto": {
+          "codigo": 1017,
+          "nome": "Achocolatado em Pó Nescau 400g",
+          "preco": 8.9,
+          "validade": "2026-07-10",
+          "estoque": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "dataHora": "10/12/2025 22:23:54",
+    "formaPagamento": "PIX",
+    "valorRecebido": 28.9,
+    "troco": 0.0,
+    "idFuncionario": 1012,
+    "itens": [
+      {
+        "quantidade": 1,
+        "subtotal": 28.9,
+        "produto": {
+          "codigo": 1001,
+          "nome": "Arroz Tio João 5kg",
+          "preco": 28.9,
+          "validade": "2026-03-15",
+          "estoque": 45
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "dataHora": "10/12/2025 22:24:27",
+    "formaPagamento": "Dinheiro",
+    "valorRecebido": 10.0,
+    "troco": 4.2,
+    "idFuncionario": 1012,
+    "itens": [
+      {
+        "quantidade": 2,
+        "subtotal": 5.8,
+        "produto": {
+          "codigo": 1010,
+          "nome": "Extrato de Tomate Elefante 190g",
+          "preco": 2.9,
+          "validade": "2026-03-10",
+          "estoque": 45
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "dataHora": "11/12/2025 00:53:20",
+    "formaPagamento": "PIX",
+    "valorRecebido": 8.7,
+    "troco": 0.0,
+    "idFuncionario": 1234,
+    "itens": [
+      {
+        "quantidade": 1,
+        "subtotal": 2.9,
+        "produto": {
+          "codigo": 1010,
+          "nome": "Extrato de Tomate Elefante 190g",
+          "preco": 2.9,
+          "validade": "2026-03-10",
+          "estoque": 43
+        }
+      },
+      {
+        "quantidade": 2,
+        "subtotal": 5.8,
+        "produto": {
+          "codigo": 1010,
+          "nome": "Extrato de Tomate Elefante 190g",
+          "preco": 2.9,
+          "validade": "2026-03-10",
+          "estoque": 43
+        }
+      }
+    ]
+  }
+]

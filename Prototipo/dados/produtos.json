@@ -1,0 +1,359 @@
+[
+  {
+    "codigo": 1001,
+    "nome": "Arroz Tio João 5kg",
+    "preco": 28.9,
+    "validade": "2026-03-15",
+    "estoque": 44
+  },
+  {
+    "codigo": 1002,
+    "nome": "Feijão Carioca Camil 1kg",
+    "preco": 9.5,
+    "validade": "2026-02-20",
+    "estoque": 60
+  },
+  {
+    "codigo": 1003,
+    "nome": "Macarrão Espaguete Barilla 500g",
+    "preco": 7.9,
+    "validade": "2026-08-10",
+    "estoque": 45
+  },
+  {
+    "codigo": 1004,
+    "nome": "Óleo de Soja Liza 900ml",
+    "preco": 8.2,
+    "validade": "2026-01-25",
+    "estoque": 50
+  },
+  {
+    "codigo": 1005,
+    "nome": "Açúcar Cristal União 1kg",
+    "preco": 4.8,
+    "validade": "2027-12-31",
+    "estoque": 80
+  },
+  {
+    "codigo": 1006,
+    "nome": "Café Pilão Tradicional 500g",
+    "preco": 16.9,
+    "validade": "2026-04-15",
+    "estoque": 40
+  },
+  {
+    "codigo": 1007,
+    "nome": "Sal Refinado Cisne 1kg",
+    "preco": 2.5,
+    "validade": "2028-12-31",
+    "estoque": 100
+  },
+  {
+    "codigo": 1008,
+    "nome": "Farinha de Trigo Dona Benta 1kg",
+    "preco": 5.9,
+    "validade": "2026-06-20",
+    "estoque": 55
+  },
+  {
+    "codigo": 1009,
+    "nome": "Molho de Tomate Pomarola 340g",
+    "preco": 3.5,
+    "validade": "2025-12-18",
+    "estoque": 70
+  },
+  {
+    "codigo": 1010,
+    "nome": "Extrato de Tomate Elefante 190g",
+    "preco": 2.9,
+    "validade": "2026-03-10",
+    "estoque": 42
+  },
+  {
+    "codigo": 1011,
+    "nome": "Vinagre de Álcool Castelo 750ml",
+    "preco": 3.2,
+    "validade": "2027-06-30",
+    "estoque": 60
+  },
+  {
+    "codigo": 1012,
+    "nome": "Azeite de Oliva Andorinha 500ml",
+    "preco": 24.9,
+    "validade": "2026-09-15",
+    "estoque": 25
+  },
+  {
+    "codigo": 1013,
+    "nome": "Biscoito Cream Cracker Marilan 200g",
+    "preco": 4.5,
+    "validade": "2025-12-20",
+    "estoque": 80
+  },
+  {
+    "codigo": 1014,
+    "nome": "Biscoito Maria Mabel 200g",
+    "preco": 3.9,
+    "validade": "2025-12-25",
+    "estoque": 75
+  },
+  {
+    "codigo": 1015,
+    "nome": "Bolacha Recheada Bono 140g",
+    "preco": 2.8,
+    "validade": "2026-01-30",
+    "estoque": 90
+  },
+  {
+    "codigo": 1016,
+    "nome": "Chocolate Barra Nestlé Classic 90g",
+    "preco": 6.5,
+    "validade": "2026-05-20",
+    "estoque": 50
+  },
+  {
+    "codigo": 1017,
+    "nome": "Achocolatado em Pó Nescau 400g",
+    "preco": 8.9,
+    "validade": "2026-07-10",
+    "estoque": 40
+  },
+  {
+    "codigo": 1018,
+    "nome": "Gelatina Morango Royal 25g",
+    "preco": 1.5,
+    "validade": "2026-11-30",
+    "estoque": 100
+  },
+  {
+    "codigo": 1019,
+    "nome": "Suco em Pó Tang Laranja 25g",
+    "preco": 1.2,
+    "validade": "2026-08-25",
+    "estoque": 120
+  },
+  {
+    "codigo": 1020,
+    "nome": "Refrigerante Coca-Cola 2L",
+    "preco": 9.9,
+    "validade": "2026-02-28",
+    "estoque": 30
+  },
+  {
+    "codigo": 1021,
+    "nome": "Refrigerante Guaraná Antarctica 2L",
+    "preco": 8.5,
+    "validade": "2026-03-15",
+    "estoque": 35
+  },
+  {
+    "codigo": 1022,
+    "nome": "Água Mineral Crystal 1.5L",
+    "preco": 2.5,
+    "validade": "2027-12-31",
+    "estoque": 100
+  },
+  {
+    "codigo": 1023,
+    "nome": "Maionese Hellmann's 500g",
+    "preco": 12.9,
+    "validade": "2026-04-20",
+    "estoque": 30
+  },
+  {
+    "codigo": 1024,
+    "nome": "Ketchup Heinz 397g",
+    "preco": 8.5,
+    "validade": "2026-06-15",
+    "estoque": 40
+  },
+  {
+    "codigo": 1025,
+    "nome": "Mostarda Heinz 200g",
+    "preco": 5.9,
+    "validade": "2026-05-30",
+    "estoque": 40
+  },
+  {
+    "codigo": 1026,
+    "nome": "Sardinha em Lata Gomes da Costa 125g",
+    "preco": 6.2,
+    "validade": "2027-03-20",
+    "estoque": 55
+  },
+  {
+    "codigo": 1027,
+    "nome": "Atum Ralado Gomes da Costa 170g",
+    "preco": 8.9,
+    "validade": "2027-02-15",
+    "estoque": 45
+  },
+  {
+    "codigo": 1028,
+    "nome": "Milho Verde Quero 200g",
+    "preco": 3.5,
+    "validade": "2026-12-10",
+    "estoque": 60
+  },
+  {
+    "codigo": 1029,
+    "nome": "Ervilha em Conserva Quero 200g",
+    "preco": 3.8,
+    "validade": "2026-11-25",
+    "estoque": 55
+  },
+  {
+    "codigo": 1030,
+    "nome": "Azeitona Verde Fatiada Borges 200g",
+    "preco": 7.5,
+    "validade": "2026-08-30",
+    "estoque": 30
+  },
+  {
+    "codigo": 1031,
+    "nome": "Batata Palha Yoki 120g",
+    "preco": 6.9,
+    "validade": "2026-03-25",
+    "estoque": 40
+  },
+  {
+    "codigo": 1032,
+    "nome": "Salgadinho Ruffles 96g",
+    "preco": 8.5,
+    "validade": "2026-02-10",
+    "estoque": 50
+  },
+  {
+    "codigo": 1033,
+    "nome": "Pipoca para Microondas Yoki 100g",
+    "preco": 4.9,
+    "validade": "2026-04-15",
+    "estoque": 45
+  },
+  {
+    "codigo": 1034,
+    "nome": "Amendoim Japonês Dori 500g",
+    "preco": 9.9,
+    "validade": "2025-12-12",
+    "estoque": 35
+  },
+  {
+    "codigo": 1035,
+    "nome": "Castanha de Caju Torrada 200g",
+    "preco": 15.9,
+    "validade": "2026-06-20",
+    "estoque": 20
+  },
+  {
+    "codigo": 1036,
+    "nome": "Granola Tradicional Kobber 1kg",
+    "preco": 18.9,
+    "validade": "2026-05-10",
+    "estoque": 25
+  },
+  {
+    "codigo": 1037,
+    "nome": "Aveia em Flocos Quaker 500g",
+    "preco": 7.5,
+    "validade": "2026-09-15",
+    "estoque": 40
+  },
+  {
+    "codigo": 1038,
+    "nome": "Mel Puro Apis Flora 300g",
+    "preco": 16.5,
+    "validade": "2027-12-31",
+    "estoque": 30
+  },
+  {
+    "codigo": 1039,
+    "nome": "Goiabada Cascão Peixe 600g",
+    "preco": 8.9,
+    "validade": "2026-08-20",
+    "estoque": 35
+  },
+  {
+    "codigo": 1040,
+    "nome": "Doce de Leite Mococa 400g",
+    "preco": 9.5,
+    "validade": "2026-03-30",
+    "estoque": 30
+  },
+  {
+    "codigo": 1041,
+    "nome": "Pão de Forma Pullman 500g",
+    "preco": 8.9,
+    "validade": "2025-12-15",
+    "estoque": 25
+  },
+  {
+    "codigo": 1042,
+    "nome": "Torrada Santa Amália 160g",
+    "preco": 5.5,
+    "validade": "2026-02-20",
+    "estoque": 40
+  },
+  {
+    "codigo": 1043,
+    "nome": "Bolo Pronto Ana Maria Chocolate 300g",
+    "preco": 6.9,
+    "validade": "2025-12-28",
+    "estoque": 30
+  },
+  {
+    "codigo": 1044,
+    "nome": "Fermento em Pó Royal 100g",
+    "preco": 4.5,
+    "validade": "2027-06-30",
+    "estoque": 50
+  },
+  {
+    "codigo": 1045,
+    "nome": "Creme de Leite Nestlé 300g",
+    "preco": 4.2,
+    "validade": "2026-01-20",
+    "estoque": 60
+  },
+  {
+    "codigo": 1046,
+    "nome": "Leite Condensado Moça 395g",
+    "preco": 7.5,
+    "validade": "2026-07-15",
+    "estoque": 55
+  },
+  {
+    "codigo": 1047,
+    "nome": "Chá Preto Leão Fuze 25 sachês",
+    "preco": 6.9,
+    "validade": "2026-10-30",
+    "estoque": 40
+  },
+  {
+    "codigo": 1048,
+    "nome": "Chá Mate Leão Natural 25 sachês",
+    "preco": 5.5,
+    "validade": "2026-09-20",
+    "estoque": 45
+  },
+  {
+    "codigo": 1049,
+    "nome": "Tempero Completo Knorr 300g",
+    "preco": 4.8,
+    "validade": "2027-03-15",
+    "estoque": 70
+  },
+  {
+    "codigo": 1050,
+    "nome": "Alho Granulado Kitano 50g",
+    "preco": 6.2,
+    "validade": "2027-12-31",
+    "estoque": 50
+  },
+  {
+    "codigo": 1731,
+    "nome": "Danone Vigor",
+    "preco": 5.0,
+    "validade": "2026-1-10",
+    "estoque": 10
+  }
+]

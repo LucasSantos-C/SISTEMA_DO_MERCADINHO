@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Gisele",
+    "senha": "1234",
+    "login": 1012,
+    "tipo": "Gerente"
+  },
+  {
+    "nome": "Ana",
+    "senha": "Ana01",
+    "login": 1234,
+    "tipo": "Funcionario"
+  },
+  {
+    "nome": "Ryan",
+    "senha": "1234",
+    "login": 1716,
+    "tipo": "Funcionario"
+  }
+]
